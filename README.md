@@ -57,10 +57,10 @@ Worst Case= 6steps
 ```
 # Graphs
 ## Best Case
-![](graphs/best%20case.png)
+![](best%20case.png)
 
 ## Average Case
-![](graphs/Average_case.png)
+![](Average_case.png)
 
 ## Worst Case
-![](graphs/worst_case.png)
+![](worst_case.png)
